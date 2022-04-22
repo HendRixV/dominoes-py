@@ -1,2 +1,2 @@
 # dominoes-py
-This is for my dominoes game that i`ve made while jetbrain project
+This is my terminal dominoes game that i\`ve made while jetbrain project
